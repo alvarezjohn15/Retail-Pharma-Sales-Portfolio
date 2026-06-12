@@ -1,4 +1,4 @@
-# Retail-Pharma Sales-Project
+# Retail-Pharmacy Sales-Project
 #### Sales • Transactions • Target Profit
 ## 📌 Overview
 #### This repository contains dataset of 7,000+ transactions from a retail pharmacy from January 2024 until May 2026 from 6 Product categories.
