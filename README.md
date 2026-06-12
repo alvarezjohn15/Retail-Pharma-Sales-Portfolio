@@ -11,7 +11,6 @@
 #### Power BI – Interactive data visualizations for insights and reporting
 ## ⚠️ Problem Statement
 #### A retail pharmacy has a total sales of Php 3.91M in 2025, a target of 2% sales increase was set (Php 3.99M) by the end of 2026.
-<img width="877" height="486" alt="Power BI Dashboard 2025" src="https://github.com/user-attachments/assets/a33baa4d-3017-4caa-a6a5-b8a93df8115f" />
 
 ## 🧪 Methodology
 The methodology involved data collection, preparation, analysis, visualization, and performance evaluation using Power BI.
