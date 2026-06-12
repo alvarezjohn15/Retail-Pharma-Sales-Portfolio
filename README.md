@@ -1,17 +1,53 @@
-# Retail-Pharma-Project
+# Retail-Pharma Sales-Project
 #### Sales • Transactions • Target Profit
 ## 📌 Overview
-#### This repository contains dataset of 7,000+ transactions from a retail pharmacy from January 2024 until May 2026.
+#### This repository contains dataset of 7,000+ transactions from a retail pharmacy from January 2024 until May 2026 from 6 Product categories.
 ## 📂 Dataset Description
 #### The dataset simulates close to real sales transactions from a pharmacy store.
-#### • Duration : Jan- May 2026
-#### • Number of Transactions : 7,000 +
-#### • Product Category Size : 6 (Baby Care, Cosmetics, Hygiene, Medicines, Skincare, Vitamins)
-#### • Product Catalog Size : 100
+####   • Duration : January 2024 - May 2026
+####   • Number of Transactions : 7,000 +
+####   • Product Category Size : 6 (Baby Care, Cosmetics, Hygiene, Medicines, Skincare, Vitamins)
 ## 🛠️ Tools
 #### Power BI – Interactive data visualizations for insights and reporting
 ## ⚠️ Problem Statement
-#### With a 2026 sales value of Php 1.5M for January - May, a target goal of 15% was set to be achieved by the end of 2026.
+#### With a total sales of Php 3.91M in 2025, an increase of 2% was set as a target sales (Php 3.99M) by the end of 2026.
 ## 🧪 Methodology
-## 🔍 Key Insights
-## ✅ Recommendations
+#### The methodology involved data collection, preparation, analysis, visualization, and performance evaluation using Power BI.
+### 1. Data Collection
+#### Sales transaction data were gathered from the pharmacy's operational records. The dataset included:
+####   - Transaction Date
+####   - Sales Amount
+####   - Product Category
+####   - Customer Type
+####   - Transaction Count
+####   - Annual Sales Target
+### 2. Data Preparation
+#### The collected data were cleaned and transformed using Power Query in Power BI by:
+####   - Removing duplicate and incomplete records
+####   - Standardizing category and customer-type labels
+####   - Formatting date fields for time-series analysis
+####   - Creating calculated measures for sales performance indicators
+### 3. Data Analysis
+#### Key performance metrics were computed using DAX formulas, including:
+####   • Total Sales = Sum of all sales transactions
+####   • Total Transactions = Count of completed transactions
+####   • Target Achievement (%) = (Actual Sales ÷ Target Sales) × 100
+####   • Sales Variance = Actual Sales − Target Sales
+####   • Net Sales vs Target = Comparison of actual sales against annual targets
+### 4. Dashboard Design and Visualization
+####   - Interactive visualizations were created to provide insights into business performance:
+####   - KPI Cards for Total Sales, Transactions, Target Achievement, and Sales Variance
+####   - Line Chart to track monthly sales trends
+####   - Donut Chart to analyze sales contribution by product category
+####   - Bar Chart to compare sales across customer segments
+####   - Year Slicer to enable dynamic filtering between 2025 and 2026
+## 💡 Key Insights
+####   • Net sales reached ₱1.53M from Jan-May 2026 (38.34%) of annual target based on 2025 performance.
+####   • Baby care generates the highest sales contribution among all product categories.
+####   • Online customers remain the largest customer segment, indicating strong adoption of digital purchasing channels.
+####   • Sales performance is currently below the projected annual target, resulting in a negative variance of ₱2.46M.
+## 🎯 Recommendations
+####   • Increase promotional activities for high-performing categories such as Baby Care to accelerate revenue growth.
+####   • Expand online-exclusive promotions and loyalty programs to capitalize on the strong online customer base.
+####   • Review underperforming product categories and optimize inventory allocation based on sales trends.
+####   • Monitor monthly sales performance closely during the remaining months of 2026 to reduce the gap against the annual target.
