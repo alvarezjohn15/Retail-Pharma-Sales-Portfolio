@@ -4,9 +4,9 @@
 #### This repository contains dataset of 7,000+ transactions from a retail pharmacy from January 2024 until May 2026 from 6 Product categories.
 ## 📂 Dataset Description
 #### The dataset simulates close to real sales transactions from a pharmacy store.
-####   • Duration : January 2024 - May 2026
-####   • Number of Transactions : 7,000 +
-####   • Product Category Size : 6 (Baby Care, Cosmetics, Hygiene, Medicines, Skincare, Vitamins)
+####  • Duration : January 2024 - May 2026
+####  • Number of Transactions : 7,000 +
+####  • Product Category Size : 6 (Baby Care, Cosmetics, Hygiene, Medicines, Skincare, Vitamins)
 ## 🛠️ Tools
 #### Power BI – Interactive data visualizations for insights and reporting
 ## ⚠️ Problem Statement
