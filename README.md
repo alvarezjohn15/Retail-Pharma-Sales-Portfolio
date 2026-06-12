@@ -29,7 +29,16 @@ The methodology involved data collection, preparation, analysis, visualization, 
 ####   - Formatting date fields for time-series analysis
 ####   - Creating calculated measures for sales performance indicators
 ### 3. Data Analysis
-<img width="877" height="111" alt="KPI 2026 cards" src="https://github.com/user-attachments/assets/9af212cb-9678-470e-8bc0-6ec18cc5fa45" />
+
+<details>
+<summary>Click to expand KPI dashboard cards</summary>
+
+<br>
+
+![2026 KPI Cards]( <img width="877" height="111" alt="KPI 2026 cards" src="https://github.com/user-attachments/assets/7cb89658-273e-44d8-839b-74e1ca9b362f" />
+)
+
+</details>
 
 #### Key performance metrics were computed using DAX formulas, including:
 ####   • Total Sales = Sum of all sales transactions
