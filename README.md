@@ -1,7 +1,7 @@
 # 💊 Retail-Pharmacy Sales-Project
 #### Sales • Transactions • Target Profit • Sales Variance
 ## 📌 Overview
-#### This repository contains dataset of 7,000+ transactions from a retail pharmacy from January 2024 until May 2026 from 6 Product categories.
+#### This repository contains dataset of 7,000+ transactions from a retail pharmacy from January 2024 until May 2026 which provides a comprehensive view of the pharmacy's sales performance, customer behavior, and product category contributions. The Retail Pharmacy Sales Dashboard enables management to monitor key performance indicators, track progress against sales targets, identify sales trends, and evaluate customer segments.
 ## 📂 Dataset Description
 #### The dataset simulates close to real sales transactions from a pharmacy store.
 ####  • Duration : January 2024 - May 2026
