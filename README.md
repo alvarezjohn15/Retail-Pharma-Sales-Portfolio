@@ -30,15 +30,17 @@ The methodology involved data collection, preparation, analysis, visualization, 
 ####   - Creating calculated measures for sales performance indicators
 ### 3. Data Analysis
 
+
 <details>
-<summary>Click to expand KPI dashboard cards</summary>
+<summary> Click to expand 📊 KPI dashboard cards</summary>
 
 <br>
 
-![2026 KPI Cards]( <img width="877" height="111" alt="KPI 2026 cards" src="https://github.com/user-attachments/assets/7cb89658-273e-44d8-839b-74e1ca9b362f" />
-)
+<img width="877" height="111" alt="KPI 2026 cards" src="https://github.com/user-attachments/assets/ad3201be-828a-4b28-b05e-65fd7bb20f09" />
+
 
 </details>
+
 
 #### Key performance metrics were computed using DAX formulas, including:
 ####   • Total Sales = Sum of all sales transactions
@@ -58,9 +60,24 @@ The methodology involved data collection, preparation, analysis, visualization, 
 ## 🖼️ Power BI Dashboard
 This Retail Pharmacy Sales Dashboard provides a comprehensive view of the pharmacy's sales performance, customer behavior, and product category contributions. Through interactive visualizations and executive summaries, the dashboard supports data-driven decision-making, helping stakeholders identify growth opportunities, improve operational efficiency, and enhance overall business performance.
 
+<details>
+<summary> Click to expand 🖼️ Power Bi Dashboard Screenshots</summary>
+
+<br>
+
+<img width="883" height="493" alt="Power BI Dashboard 2024" src="https://github.com/user-attachments/assets/de302002-2532-422a-ba83-2cc4f2a2f916" />
+<img width="883" height="493" alt="Power BI Dashboard 2025" src="https://github.com/user-attachments/assets/b6d808cc-d677-49de-851c-31400273b7a0" />
+<img width="883" height="493" alt="Power BI Dashboard 2026" src="https://github.com/user-attachments/assets/4aed5cfa-cd06-4000-89cb-2cb94624b445" />
+<img width="883" height="493" alt="Executive Summary" src="https://github.com/user-attachments/assets/8fe70dcf-917c-4144-9b0b-88bac4d601da" />
+
+
+
+
+
+</details>
+
 
 ## 💡 Key Insights
-<img width="884" height="490" alt="Power BI Dashboard 2026" src="https://github.com/user-attachments/assets/217a0a52-41e5-40fe-ad48-001dee54318e" />
 
 ####   • Net sales reached ₱1.53M from Jan-May 2026 (38.34%) of annual target based on 2025 performance.
 ####   • Baby care generates the highest sales contribution among all product categories.
@@ -76,7 +93,7 @@ This Retail Pharmacy Sales Dashboard provides a comprehensive view of the pharma
 ####  • Improved customer retention through enhanced loyalty and online engagement programs.
 ####  • Better inventory efficiency and reduced underperforming stock.
 ####  • Higher annual target achievement and stronger overall business performance.
-## Overall Assessment
+## 📋 Overall Assessment
 Current performance is below target, but strategic promotions, customer retention initiatives, and inventory optimization can improve year-end results.
 
 
