@@ -40,7 +40,7 @@ The methodology involved data collection, preparation, analysis, visualization, 
 ####   • Sales Variance = Actual Sales − Target Sales
 
 ### 4. Dashboard Design and Visualization
-####   - Interactive visualizations were created to provide insights into business performance:
+#### Interactive visualizations were created to provide insights into business performance:
 ####   - KPI Cards for Total Sales, Transactions, Target Achievement, and Sales Variance
 ####   - Line Chart to track monthly sales trends
 ####   - Donut Chart to analyze sales contribution by product category
