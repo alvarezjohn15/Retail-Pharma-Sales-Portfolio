@@ -46,6 +46,11 @@ The methodology involved data collection, preparation, analysis, visualization, 
 ####   - Donut Chart to analyze sales contribution by product category
 ####   - Bar Chart to compare sales across customer segments
 ####   - Year Slicer to enable dynamic filtering between 2025 and 2026
+
+## 🖼️ Power BI Dashboard
+This Retail Pharmacy Sales Dashboard provides a comprehensive view of the pharmacy's sales performance, customer behavior, and product category contributions. Through interactive visualizations and executive summaries, the dashboard supports data-driven decision-making, helping stakeholders identify growth opportunities, improve operational efficiency, and enhance overall business performance.
+
+
 ## 💡 Key Insights
 <img width="884" height="490" alt="Power BI Dashboard 2026" src="https://github.com/user-attachments/assets/217a0a52-41e5-40fe-ad48-001dee54318e" />
 
