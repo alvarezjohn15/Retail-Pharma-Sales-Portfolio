@@ -66,13 +66,12 @@ This Retail Pharmacy Sales Dashboard provides a comprehensive view of the pharma
 <br>
 
 <img width="883" height="493" alt="Power BI Dashboard 2024" src="https://github.com/user-attachments/assets/de302002-2532-422a-ba83-2cc4f2a2f916" />
+
 <img width="883" height="493" alt="Power BI Dashboard 2025" src="https://github.com/user-attachments/assets/b6d808cc-d677-49de-851c-31400273b7a0" />
+
 <img width="883" height="493" alt="Power BI Dashboard 2026" src="https://github.com/user-attachments/assets/4aed5cfa-cd06-4000-89cb-2cb94624b445" />
+
 <img width="883" height="493" alt="Executive Summary" src="https://github.com/user-attachments/assets/8fe70dcf-917c-4144-9b0b-88bac4d601da" />
-
-
-
-
 
 </details>
 
