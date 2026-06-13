@@ -10,7 +10,7 @@
 ## 🛠️ Tools
 #### Power BI – Interactive data visualizations for insights and reporting
 ## ⚠️ Problem Statement
-#### A retail pharmacy has a total sales of Php 3.91M in 2025, a target of 2% sales increase was set (Php 3.99M) by the end of 2026.
+#### A retail pharmacy has a total sales of Php 3.91M in 2025. As of May 2026, the total sales value is Php 1.53M. A 2% target sales increase was set (Php 3.99M) by the end of 2026. 
 
 ## 🧪 Methodology
 The methodology involved data collection, preparation, analysis, visualization, and performance evaluation using Power BI.
