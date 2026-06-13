@@ -6,7 +6,7 @@
 #### The dataset simulates close to real sales transactions from a pharmacy store.
 ####  • Duration : January 2024 - May 2026
 ####  • Number of Transactions : 7,000 +
-####  • Product Category Size : 6
+####  • Product Category Size : 6 (Baby Care, Cosmetics, Skincare, Vitamins, Medicines, Hygiene)
 ## 🛠️ Tools
 #### Power BI – Interactive data visualizations for insights and reporting
 ## ⚠️ Problem Statement
